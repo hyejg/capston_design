@@ -8,4 +8,4 @@
     - Toast 알림
     - AVD 시작하기
 
-<img width = "300" height = "600" src = "./png/2주차출석과제.jpg"></img>
+<img width="300" height="600" src="png/2주차출석과제.jpg"></img>
