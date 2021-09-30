@@ -21,4 +21,4 @@
 
 ## 5주차 과제
 <img width="300" height="600" src="png/5주차출석과제_1.JPG"></img>
-<img width="300" height="600" src="png/3주차출석과제_2.JPG"></img>
+<img width="300" height="600" src="png/5주차출석과제_2.JPG"></img>
